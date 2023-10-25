@@ -1,0 +1,200 @@
+
+Vertices: 10
+Edges: 20
+Theoretical complexity: O(66,44)
+Vertex processes: 8.0
+Edge processes: 15.0
+Priority queue processes: 19,51
+Total processes: 42,51
+
+Vertices: 10
+Edges: 35
+Theoretical complexity: O(116,27)
+Vertex processes: 10.0
+Edge processes: 35.0
+Priority queue processes: 42,03
+Total processes: 87,03
+
+Vertices: 10
+Edges: 50
+Theoretical complexity: O(166,10)
+Vertex processes: 10.0
+Edge processes: 50.0
+Priority queue processes: 49,78
+Total processes: 109,78
+
+Vertices: 10
+Edges: 65
+Theoretical complexity: O(215,93)
+Vertex processes: 10.0
+Edge processes: 65.0
+Priority queue processes: 49,58
+Total processes: 124,58
+
+Vertices: 10
+Edges: 80
+Theoretical complexity: O(265,75)
+Vertex processes: 10.0
+Edge processes: 80.0
+Priority queue processes: 64,34
+Total processes: 154,34
+
+Vertices: 20
+Edges: 76
+Theoretical complexity: O(328,47)
+Vertex processes: 20.0
+Edge processes: 76.0
+Priority queue processes: 116,68
+Total processes: 212,68
+
+Vertices: 20
+Edges: 152
+Theoretical complexity: O(656,93)
+Vertex processes: 20.0
+Edge processes: 152.0
+Priority queue processes: 197,79
+Total processes: 369,79
+
+Vertices: 20
+Edges: 228
+Theoretical complexity: O(985,40)
+Vertex processes: 20.0
+Edge processes: 228.0
+Priority queue processes: 230,78
+Total processes: 478,78
+
+Vertices: 20
+Edges: 304
+Theoretical complexity: O(1313,87)
+Vertex processes: 20.0
+Edge processes: 304.0
+Priority queue processes: 218,11
+Total processes: 542,11
+
+Vertices: 20
+Edges: 380
+Theoretical complexity: O(1642,33)
+Vertex processes: 20.0
+Edge processes: 380.0
+Priority queue processes: 274,29
+Total processes: 674,29
+
+Vertices: 30
+Edges: 174
+Theoretical complexity: O(853,80)
+Vertex processes: 30.0
+Edge processes: 174.0
+Priority queue processes: 256,60
+Total processes: 460,60
+
+Vertices: 30
+Edges: 348
+Theoretical complexity: O(1707,60)
+Vertex processes: 30.0
+Edge processes: 348.0
+Priority queue processes: 441,29
+Total processes: 819,29
+
+Vertices: 30
+Edges: 522
+Theoretical complexity: O(2561,40)
+Vertex processes: 30.0
+Edge processes: 522.0
+Priority queue processes: 464,40
+Total processes: 1016,40
+
+Vertices: 30
+Edges: 696
+Theoretical complexity: O(3415,20)
+Vertex processes: 30.0
+Edge processes: 696.0
+Priority queue processes: 406,18
+Total processes: 1132,18
+
+Vertices: 30
+Edges: 870
+Theoretical complexity: O(4268,99)
+Vertex processes: 30.0
+Edge processes: 870.0
+Priority queue processes: 483,49
+Total processes: 1383,49
+
+Vertices: 40
+Edges: 312
+Theoretical complexity: O(1660,44)
+Vertex processes: 40.0
+Edge processes: 312.0
+Priority queue processes: 409,81
+Total processes: 761,81
+
+Vertices: 40
+Edges: 624
+Theoretical complexity: O(3320,88)
+Vertex processes: 40.0
+Edge processes: 624.0
+Priority queue processes: 679,11
+Total processes: 1343,11
+
+Vertices: 40
+Edges: 936
+Theoretical complexity: O(4981,32)
+Vertex processes: 40.0
+Edge processes: 936.0
+Priority queue processes: 673,50
+Total processes: 1649,50
+
+Vertices: 40
+Edges: 1248
+Theoretical complexity: O(6641,77)
+Vertex processes: 40.0
+Edge processes: 1248.0
+Priority queue processes: 727,27
+Total processes: 2015,27
+
+Vertices: 40
+Edges: 1560
+Theoretical complexity: O(8302,21)
+Vertex processes: 40.0
+Edge processes: 1560.0
+Priority queue processes: 759,45
+Total processes: 2359,45
+
+Vertices: 50
+Edges: 490
+Theoretical complexity: O(2765,49)
+Vertex processes: 50.0
+Edge processes: 490.0
+Priority queue processes: 746,85
+Total processes: 1286,85
+
+Vertices: 50
+Edges: 980
+Theoretical complexity: O(5530,98)
+Vertex processes: 50.0
+Edge processes: 980.0
+Priority queue processes: 865,22
+Total processes: 1895,22
+
+Vertices: 50
+Edges: 1470
+Theoretical complexity: O(8296,47)
+Vertex processes: 50.0
+Edge processes: 1470.0
+Priority queue processes: 884,29
+Total processes: 2404,29
+
+Vertices: 50
+Edges: 1960
+Theoretical complexity: O(11061,96)
+Vertex processes: 50.0
+Edge processes: 1960.0
+Priority queue processes: 940,41
+Total processes: 2950,41
+
+Vertices: 50
+Edges: 2450
+Theoretical complexity: O(13827,45)
+Vertex processes: 50.0
+Edge processes: 2450.0
+Priority queue processes: 1028,34
+Total processes: 3528,34
